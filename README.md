@@ -1,5 +1,5 @@
 # Crud-Panel-Angular
-Simple Product CRUD made in Angular.
-Using json-server as backend.
+<p>Simple Product CRUD made in Angular.</p>
+<p>Using json-server as backend.</p>
 
 run "npm start" to start the servers.
